@@ -2,7 +2,7 @@
   "name": "学习手记 - Study Journal",
   "short_name": "学习手记",
   "description": "个人学习计划表，支持周视图、月历、习惯打卡、统计、番茄钟",
-  "start_url": "./study-planner.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#faf8f5",

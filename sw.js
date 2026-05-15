@@ -1,7 +1,7 @@
 // 学习手记 Service Worker - 离线缓存
 var CACHE_NAME = 'study-planner-v2';
 var ASSETS = [
-  './study-planner.html',
+  './index.html',
   './manifest.json',
   './icon-192.png',
   './icon-512.png',
