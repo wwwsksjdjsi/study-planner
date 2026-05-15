@@ -1,0 +1,26 @@
+{
+  "name": "学习手记 - Study Journal",
+  "short_name": "学习手记",
+  "description": "个人学习计划表，支持周视图、月历、习惯打卡、统计、番茄钟",
+  "start_url": "./study-planner.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#faf8f5",
+  "theme_color": "#b8956a",
+  "lang": "zh-CN",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
